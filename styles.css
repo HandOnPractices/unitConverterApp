@@ -66,3 +66,24 @@ body{
     padding: 10px;
     border-radius: 10px;
 }
+
+
+footer {
+    text-align: center;
+    padding: 2px;
+    background-color: #6943FF;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
