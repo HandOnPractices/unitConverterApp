@@ -55,7 +55,7 @@ btnEl.addEventListener('click', function(){
     }
 });
 
-clearEl.addEventListener('click', function(){
+clearEl.addEventListener('dblclick', function(){
     inputEl.value = '';
     lengthResultEl.textContent = '';
     volumeResultEl.textContent = '';
